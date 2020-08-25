@@ -8,4 +8,4 @@ HTML
 CSS
 JS
 
-This is a javascript color game which will help you in improving your RGB concept , a very fun way to learn RGB via playing my color Game
+This is a javascript color game which will help you in improving your RGB concept , a very fun way to learn RGB via playing this color Game
