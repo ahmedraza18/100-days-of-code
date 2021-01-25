@@ -81,19 +81,44 @@
 ### Day17: Jan 17 2021, Sunday
 **Today's Progress**: another day working with 'smartbrain' front end <br />
 **Thoughts**: developed front page of smartbrain.  <br />
-[!smartbrain_layout](https://pbs.twimg.com/media/EsB8dT5XIA8BO33?format=jpg&name=large)
+[!smartbrain_layout](https://pbs.twimg.com/media/EsB8dT5XIA8BO33?format=jpg&name=large) <br />
 
 ### Day18: Jan 18 2021, Monday
 **Today's Progress**: Developing front end of SmartBrain web application, added face detection API from Clarifai. <br />
 **Thoughts**: API added from clarifai, its simple and working fine. <br />
 
 ### Day19: Jan 19 2021, Tuesday
-**Today's Progress**:  learned AWS concepts and created EC2 virtual machine for learning backend.
-**Thoughts**: created a ec2 machine and allocate resources to it.
+**Today's Progress**:  learned AWS concepts and created EC2 virtual machine for learning backend. <br />
+**Thoughts**: created a ec2 machine and allocate resources to it. <br />
 
 ### Day20: Jan 20 2021, Wednesday
-**Today's Progress**: Revised basic git commands and tried practical for it.
-**Thoughts**: tried practical examples of git and its commands.
+**Today's Progress**: Revised basic git commands and tried practical for it. <br  />
+**Thoughts**: tried practical examples of git and its commands. <br />
+
+### Day21: Jan 21 2021, Thrusday
+**Today's Progress**: completed adding API to 'smartbrain' front end and now it is detecting faces from an image using url. <br />
+**Thoughts**: completed adding API and it is recognizing faces in images entered using url. <br />
+[!after_adding_API](https://pbs.twimg.com/media/EsWf3T4WMAM-wyu?format=jpg&name=large) <br />
+
+### Day22: Jan 22 2021, Friday
+**Today's Progress**: Completed front end development of SmartBrain, added a sign in and register form inside the project. Have a look at it.
+Image. <br />
+**Thoughts**: so after all front end is completed after adding signin and registration form.<br/>
+[!signin](https://twitter.com/ahmedr__7/status/1353029389034913793/photo/1) <br />
+[!register](https://twitter.com/ahmedr__7/status/1353029389034913793/photo/2) <br />
+
+### Day23: Jan 23 2021, Saturday
+**Today's Progress**: Working on my portfolio website, developed a sketch on paper of it.
+**Thoughts**: Developing a portfolio website for me.
+
+### Day24: Jan 24 2021, Sunday
+**Today's Progress**: Developing front end of website using HTML.
+**Thoughts**: developing website using HTML5 worked on header,article and section.
+
+### Day25: Jan 25 2021, Monday
+**Today's Progres**: updated #100daysofcode logfile in github.
+
+
 
 
 
