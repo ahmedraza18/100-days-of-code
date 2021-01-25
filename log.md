@@ -14,7 +14,7 @@
 
 
 ### Day3: Jan 3 2021, Sunday
-**Today's Progress**: Another day with redux CSS concepts like flexbox and grids. Developed a CSS blogpage while brushing old concepts.<br />
+**Today's Progress**: Another day with redux CSS concepts like flexbox and grids. Developed a CSS blogpage while brushing up old concepts.<br />
 **Thoughts**: feeling somewhat comfortable with redux. Thanks to Andrei.<br />
 **Link(s) to work**<br />
 1.[alienblog_gitrepo]: https://github.com/ahmedraza18/alienblogpage <br />
