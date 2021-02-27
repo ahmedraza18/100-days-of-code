@@ -4,8 +4,8 @@
 **Today's Progress**: completed my first react app. code along with Andrei webdevelopement course from Udemy.<br />
 **Thoughts**: Yayyy. First react app completed feeling confident in react. love react best JS framework. 5star to Andrei's teaching method.<br />
 **Link(s) to work**<br />
-1.[Robofriends_gitrepo]: https://github.com/ahmedraza18/robofriends<br />
-2.[Robofriends_live]: https://ahmedraza18.github.io/robofriends/ <br />
+[Robofriends_gitrepo]: https://github.com/ahmedraza18/robofriends<br />
+[Robofriends_live]: https://ahmedraza18.github.io/robofriends/ <br />
 
 
 ### Day2: Jan 2 2021, Saturday
@@ -17,8 +17,8 @@
 **Today's Progress**: Another day with redux CSS concepts like flexbox and grids. Developed a CSS blogpage while brushing up old concepts.<br />
 **Thoughts**: feeling somewhat comfortable with redux. Thanks to Andrei.<br />
 **Link(s) to work**<br />
-1.[alienblog_gitrepo]: https://github.com/ahmedraza18/alienblogpage <br />
-2.[alienblog_live]: https://ahmedraza18.github.io/alienblogpage/ <br />
+[alienblog_gitrepo]: https://github.com/ahmedraza18/alienblogpage <br />
+[alienblog_live]: https://ahmedraza18.github.io/alienblogpage/ <br />
 
 
 ### Day4: Jan 4 2021,Monday
@@ -81,7 +81,7 @@
 ### Day17: Jan 17 2021, Sunday
 **Today's Progress**: another day working with 'smartbrain' front end <br />
 **Thoughts**: developed front page of smartbrain.  <br />
-[!smartbrain_layout](https://pbs.twimg.com/media/EsB8dT5XIA8BO33?format=jpg&name=large) <br />
+[smartbrain_layout](https://pbs.twimg.com/media/EsB8dT5XIA8BO33?format=jpg&name=large) <br />
 
 ### Day18: Jan 18 2021, Monday
 **Today's Progress**: Developing front end of SmartBrain web application, added face detection API from Clarifai. <br />
@@ -98,27 +98,71 @@
 ### Day21: Jan 21 2021, Thrusday
 **Today's Progress**: completed adding API to 'smartbrain' front end and now it is detecting faces from an image using url. <br />
 **Thoughts**: completed adding API and it is recognizing faces in images entered using url. <br />
-[!after_adding_API](https://pbs.twimg.com/media/EsWf3T4WMAM-wyu?format=jpg&name=large) <br />
+[after_adding_API](https://pbs.twimg.com/media/EsWf3T4WMAM-wyu?format=jpg&name=large) <br />
 
 ### Day22: Jan 22 2021, Friday
 **Today's Progress**: Completed front end development of SmartBrain, added a sign in and register form inside the project. Have a look at it.
 Image. <br />
 **Thoughts**: so after all front end is completed after adding signin and registration form.<br/>
-[!signin](https://twitter.com/ahmedr__7/status/1353029389034913793/photo/1) <br />
-[!register](https://twitter.com/ahmedr__7/status/1353029389034913793/photo/2) <br />
+[signin](https://twitter.com/ahmedr__7/status/1353029389034913793/photo/1) <br />
+[register](https://twitter.com/ahmedr__7/status/1353029389034913793/photo/2) <br />
 
 ### Day23: Jan 23 2021, Saturday
-**Today's Progress**: Working on my portfolio website, developed a sketch on paper of it.
-**Thoughts**: Developing a portfolio website for me.
+**Today's Progress**: Working on my portfolio website, developed a sketch on paper of it. <br />
+**Thoughts**: Developing a portfolio website for me. <br />
 
 ### Day24: Jan 24 2021, Sunday
-**Today's Progress**: Developing front end of website using HTML.
-**Thoughts**: developing website using HTML5 worked on header,article and section.
+**Today's Progress**: Developing front end of website using HTML. <br />
+**Thoughts**: developing website using HTML5 worked on header,article and section. <br />
 
-### Day25: Jan 25 2021, Monday
-**Today's Progres**: updated #100daysofcode logfile in github.
+### Day25: Jan 25 2021, Monday 
+**Today's Progres**: updated #100daysofcode logfile in github. <br />
 
+### Day26: Jan 26 2021, Tuesday
+**Today's Progress**: Learn basic node js concepts and ran a http server using nodemon. <br />
+** Thoughts **: started backend concepts feeling like new. <br />
 
+### Day27: Jan 27 2021, Wednesday
+**Today's Progress**: Revised javascript es6 concepts with examples <br />
+** Thoughts **: revising js es6 concepts for making a strong hold of syntax. <br />
+
+### Day28: Jan 28 2021, Thursday
+** Today's Progress **: Solved basic c++ problems on hackerrank <br />
+** Thoughts **: Feeling confident in c++ basic concepts. <br />
+
+### Day29: Jan 29 2021, Friday
+** Today's Progress **: Learn linux commands with examples and exercises from hackthebox academy <br />
+** Thoughts **: started my journey into cybersec via hackthebox academy, started with linux commands because linux is used in cybersec as well as software development <br />
+
+### Day30: Jan 30 2021, Saturday
+** Today's Progress **: completed fundamentals of Linux module with all exercises, a hell lot of challenging but had fun along the way loved it,  thank you https://academy.hackthebox.eu/ looking forward to learning more. <br />
+[linux cert](https://pbs.twimg.com/media/Es_5jeCW8AYI7Zq?format=jpg&name=large) <br />
+** Thoughts **: completed all linux concepts with all the excercises. <br />
+
+### Day31: Jan 31 2021, Sunday
+** Today's Progress **: working on web request module from hack the box academy @hackthebox_eu.Completed 60% of it, Finish it up by tomorrow. <br />
+** Thoughts **: After completing linux making my progress on to web request module. concepts are looking easy till now. <br />
+
+### Day32: Feb 1 2021, Monday
+** Today's Progress **: Completed web request module with practical exercises from Hack the box academy. That was really challenging but fun at the same time. <br />
+[Web request_cert](https://pbs.twimg.com/media/EtJ_jnnW8AAe3CF?format=jpg&name=large) <br />
+** Thoughts **: last excercises were a bit challanging but had fun along the way. <br />
+
+### Day33: Feb 2 2021, Tuesday
+** Today's Progress **: happy to complete this journey 1/3, spent my day learning windows fundamentals from hackthebox academy. <br />
+** Thoughts **: feeling happy to complete this journey to 1/3. started learning windows fundamentals from htb academy. <br />
+
+### Day34: Feb 3 2021, Wednesday
+** Today's Progress **: Another day learning windows fundamentals from Hackthebox academy. <br />
+** Thoughts **: continuing with windows fundamentals. <br />
+
+### Day35: Feb 4 2021, Thursday
+** Today's Progress **: learning windows fundamentals from Hackthebox academy. <br />
+** Thoughts **: another day with htb windows fundamentals. <br />
+
+### Day36: Feb 5 2021, Friday
+** Today's Progress **: learned backend server concepts using node.js, express and middleware. <br />
+** Thoughts **: learned backend concepts for including express and middleware. <br />
 
 
 
